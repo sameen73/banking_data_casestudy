@@ -1,2 +1,2 @@
 # banking_data_casestudy
-Repository for the code behind the banking data case study
+Repository for all files associated with the banking data case study.
